@@ -1,0 +1,9 @@
+name,age,zipcode,satisfaction,referral_source
+Alice Johnson,34,02134,9,Google
+Bob Smith,--,10001,7,Friend
+Carol White,28,90210,missing,Instagram
+David Lee,45,00501,8,N/A
+Emma Davis,missing,60601,10,Google
+Frank Miller,52,30301,--,Twitter
+Grace Kim,29,02134,6,Friend
+Henry Chen,41,10002,N/A,--

@@ -1,0 +1,196 @@
+Hotel,City,Room,Stars,Price,Rating,Nights,Guests,Season
+Sunset Suites,Las Vegas,Standard,5,185.47,4.3,2,2,Summer
+Harbor Hotel,Miami,Suite,4,315.38,3.1,4,3,Fall
+Sunset Hotel,Nashville,Standard,3,112.52,3.5,7,3,Spring
+Mountain Suites,Las Vegas,Deluxe,5,285.43,3.9,2,4,Spring
+Ocean Hotel,New York,Deluxe,3,158.23,2.3,11,2,Spring
+Park Resort,Chicago,Deluxe,5,245.57,3.6,2,1,Winter
+Harbor Resort,Nashville,Suite,4,349.7,4.3,3,1,Fall
+Harbor Plaza,Boston,Deluxe,5,315.82,4.3,2,4,Fall
+Park Plaza,Denver,Standard,3,83.85,1.8,4,2,Winter
+Mountain Suites,Austin,Deluxe,4,301.31,4.2,1,2,Summer
+Metro Suites,Boston,Suite,5,543.86,4.4,3,4,Summer
+Skyline Resort,Las Vegas,Presidential,5,877.54,4.1,4,2,Winter
+Royal Inn,Seattle,Suite,4,352.15,3.5,1,2,Winter
+Heritage Inn,Las Vegas,Standard,3,81.97,2.5,1,3,Winter
+Heritage Resort,San Francisco,Standard,4,120.84,4.2,2,1,Spring
+Park Resort,Chicago,Suite,4,447.53,3.5,1,1,Summer
+Sunset Suites,Miami,Deluxe,3,149.98,2.9,1,1,Spring
+Grand Hotel,Seattle,Standard,3,90.33,1.8,9,2,Fall
+Park Hotel,Chicago,Suite,5,450.57,4.8,2,2,Spring
+Skyline Hotel,Miami,Deluxe,5,232.07,5.0,6,1,Winter
+Harbor Resort,Chicago,Deluxe,3,164.31,2.0,8,2,Spring
+Skyline Hotel,Boston,Standard,4,133.46,4.4,7,1,Winter
+Park Hotel,Denver,Standard,4,105.23,2.5,2,4,Winter
+Heritage Lodge,Denver,Standard,4,110.71,3.1,10,2,Fall
+Park Resort,Miami,Suite,3,289.05,3.2,1,4,Fall
+Grand Suites,San Francisco,Standard,3,101.0,3.4,3,2,Spring
+Grand Hotel,Nashville,Standard,4,176.34,2.9,5,1,Summer
+Mountain Suites,San Francisco,Deluxe,4,297.98,4.4,1,2,Summer
+Ocean Resort,New York,Standard,3,111.04,2.2,1,1,Summer
+Sunset Plaza,San Francisco,Deluxe,4,272.84,4.5,4,1,Summer
+Heritage Inn,Boston,Standard,4,120.81,4.3,5,1,Spring
+Sunset Plaza,Nashville,Standard,4,156.25,3.0,8,1,Summer
+Ocean Hotel,Austin,Suite,3,394.47,2.8,2,2,Summer
+Park Resort,Austin,Deluxe,3,178.41,3.2,3,1,Spring
+Royal Inn,Miami,Standard,5,176.85,3.9,2,1,Winter
+Heritage Resort,Boston,Suite,4,428.54,3.0,1,3,Spring
+Royal Resort,Austin,Standard,5,228.44,4.3,4,2,Summer
+Harbor Plaza,Las Vegas,Standard,5,185.34,5.0,2,3,Fall
+Grand Suites,Las Vegas,Standard,4,176.56,2.7,10,1,Summer
+Harbor Hotel,Miami,Standard,4,153.02,4.5,1,3,Summer
+Harbor Resort,Las Vegas,Standard,4,124.7,2.6,4,2,Spring
+Sunset Suites,New York,Suite,4,478.83,3.2,4,2,Summer
+Harbor Resort,Austin,Deluxe,4,227.62,3.1,3,1,Spring
+Sunset Plaza,Chicago,Deluxe,4,261.23,3.4,2,2,Summer
+Skyline Resort,San Francisco,Deluxe,4,231.8,4.4,2,2,Summer
+Heritage Lodge,Chicago,Standard,3,102.1,3.0,3,3,Fall
+Ocean Resort,Chicago,Suite,4,333.27,3.8,1,3,Fall
+Heritage Resort,New York,Suite,3,249.83,2.0,7,2,Fall
+Heritage Lodge,Denver,Deluxe,5,404.52,5.0,4,2,Summer
+Park Plaza,Austin,Suite,4,407.78,3.4,2,1,Spring
+Ocean Hotel,Las Vegas,Suite,4,354.3,2.7,2,1,Spring
+Sunset Suites,Boston,Standard,3,104.55,2.9,1,2,Fall
+Park Resort,Denver,Deluxe,3,161.66,3.0,9,1,Fall
+Skyline Resort,Nashville,Standard,3,117.26,2.3,8,3,Summer
+Park Resort,Boston,Suite,5,446.33,4.4,1,2,Fall
+Metro Suites,Austin,Suite,5,586.98,4.6,8,2,Spring
+Metro Suites,Miami,Standard,4,111.71,3.0,2,2,Fall
+Sunset Suites,Austin,Standard,5,154.33,3.7,1,2,Fall
+Sunset Hotel,Chicago,Deluxe,5,287.69,5.0,1,1,Winter
+Royal Inn,Chicago,Standard,4,128.64,3.0,2,2,Spring
+Metro Lodge,New York,Suite,3,321.91,1.6,2,2,Summer
+Mountain Suites,Austin,Presidential,3,457.9,3.0,7,2,Spring
+Royal Plaza,Nashville,Suite,4,378.49,2.6,4,1,Fall
+Mountain Lodge,Denver,Standard,5,177.09,4.4,5,4,Fall
+Harbor Hotel,Nashville,Suite,4,357.2,4.2,3,2,Fall
+Harbor Plaza,New York,Standard,4,126.09,3.8,2,2,Fall
+Sunset Suites,San Francisco,Deluxe,4,251.35,4.3,5,1,Summer
+Grand Plaza,Boston,Presidential,3,492.31,3.0,4,2,Fall
+Park Hotel,Denver,Suite,3,295.28,2.0,4,2,Spring
+Park Resort,Boston,Standard,5,201.24,4.4,2,1,Summer
+Metro Lodge,Chicago,Standard,5,159.26,5.0,2,2,Spring
+Heritage Resort,Boston,Deluxe,5,278.85,4.2,2,2,Spring
+Royal Inn,Las Vegas,Standard,3,132.19,1.8,7,2,Summer
+Skyline Hotel,Miami,Deluxe,4,199.01,4.4,2,3,Fall
+Royal Plaza,New York,Deluxe,3,141.85,3.1,9,1,Winter
+Harbor Plaza,New York,Deluxe,4,238.2,3.3,8,1,Spring
+Ocean Resort,Austin,Standard,4,132.71,2.9,2,2,Winter
+Royal Resort,Chicago,Standard,3,91.03,2.9,3,1,Winter
+Sunset Plaza,Las Vegas,Suite,4,428.33,4.1,4,2,Spring
+Skyline Lodge,Chicago,Deluxe,4,246.96,4.2,1,1,Spring
+Sunset Plaza,Nashville,Suite,4,447.68,3.4,2,2,Summer
+Harbor Hotel,Boston,Deluxe,4,221.13,4.0,4,1,Winter
+Harbor Plaza,Nashville,Deluxe,3,216.03,3.0,1,2,Summer
+Mountain Hotel,Las Vegas,Standard,4,140.88,3.4,2,2,Fall
+Royal Plaza,San Francisco,Standard,4,163.61,3.3,5,1,Summer
+Grand Suites,Seattle,Standard,3,109.62,3.1,1,3,Fall
+Mountain Hotel,Austin,Standard,4,128.15,4.0,2,2,Fall
+Skyline Lodge,Las Vegas,Deluxe,4,170.01,3.8,6,2,Winter
+Sunset Plaza,Boston,Standard,4,149.2,4.3,3,1,Spring
+Heritage Inn,San Francisco,Deluxe,5,347.36,4.5,3,2,Summer
+Royal Inn,Austin,Standard,4,144.2,3.1,6,2,Spring
+Skyline Lodge,Boston,Standard,3,137.44,2.7,4,3,Summer
+Mountain Hotel,Boston,Deluxe,4,206.2,3.1,1,2,Fall
+Ocean Resort,Austin,Standard,5,149.33,4.4,8,2,Winter
+Metro Suites,San Francisco,Deluxe,3,234.62,3.2,2,2,Summer
+Mountain Hotel,Miami,Suite,4,331.53,4.1,2,2,Spring
+Mountain Suites,New York,Suite,5,553.75,4.8,7,2,Fall
+Park Resort,Miami,Deluxe,3,242.72,3.0,2,1,Summer
+Ocean Hotel,New York,Deluxe,4,171.03,4.1,2,2,Winter
+Royal Inn,Chicago,Deluxe,4,198.22,2.7,7,2,Spring
+Harbor Plaza,Denver,Presidential,3,514.44,2.4,4,3,Fall
+Mountain Hotel,Las Vegas,Deluxe,3,189.53,3.5,2,4,Fall
+Metro Resort,Las Vegas,Deluxe,4,231.15,2.7,2,2,Fall
+Sunset Plaza,Las Vegas,Standard,5,155.45,4.6,4,2,Fall
+Grand Hotel,Nashville,Suite,5,666.52,4.0,6,1,Summer
+Harbor Resort,Nashville,Standard,5,182.25,5.0,4,2,Spring
+Mountain Hotel,Miami,Deluxe,5,300.15,4.2,2,1,Winter
+Heritage Lodge,Boston,Suite,4,501.21,3.0,6,2,Summer
+Heritage Lodge,Las Vegas,Suite,4,338.75,2.7,5,1,Winter
+Metro Suites,Austin,Presidential,5,923.58,4.3,2,1,Summer
+Sunset Hotel,Las Vegas,Deluxe,5,314.52,4.0,1,3,Summer
+Park Resort,Seattle,Presidential,3,487.01,2.4,5,2,Winter
+Royal Plaza,San Francisco,Standard,3,87.42,2.0,3,2,Fall
+Sunset Hotel,Boston,Deluxe,5,331.34,4.8,6,2,Spring
+Harbor Hotel,Miami,Deluxe,3,189.8,3.2,1,2,Fall
+Ocean Hotel,Nashville,Presidential,3,576.0,1.8,3,1,Summer
+Heritage Resort,Boston,Standard,3,98.65,1.8,8,1,Spring
+Skyline Hotel,San Francisco,Presidential,4,573.94,4.2,1,2,Spring
+Heritage Lodge,Chicago,Deluxe,3,182.84,3.0,3,2,Summer
+Skyline Lodge,Boston,Standard,4,101.58,3.5,2,2,Winter
+Park Hotel,Denver,Standard,3,90.45,2.1,4,2,Spring
+Sunset Suites,Austin,Presidential,4,618.53,3.4,6,1,Fall
+Ocean Hotel,Boston,Suite,3,322.42,2.3,6,2,Fall
+Metro Lodge,New York,Standard,4,150.12,2.8,8,1,Summer
+Heritage Inn,New York,Standard,3,136.47,2.6,3,2,Summer
+Sunset Suites,New York,Deluxe,5,313.31,4.9,10,2,Fall
+Sunset Hotel,New York,Deluxe,3,153.37,1.7,7,2,Fall
+Heritage Resort,Las Vegas,Deluxe,5,276.04,4.8,4,1,Winter
+Harbor Hotel,Las Vegas,Presidential,4,722.12,3.6,2,1,Spring
+Heritage Resort,Nashville,Deluxe,5,266.48,4.7,4,1,Spring
+Metro Suites,Austin,Deluxe,4,241.47,3.5,2,1,Summer
+Metro Suites,Nashville,Deluxe,4,181.4,4.5,1,1,Winter
+Harbor Resort,San Francisco,Suite,4,291.49,4.0,1,2,Winter
+Metro Resort,Chicago,Deluxe,5,310.65,5.0,1,1,Summer
+Skyline Lodge,New York,Suite,4,383.69,3.3,1,1,Fall
+Sunset Suites,San Francisco,Suite,4,399.66,4.2,2,2,Summer
+Park Plaza,New York,Standard,4,142.97,4.1,1,2,Summer
+Park Plaza,Boston,Standard,5,224.97,5.0,6,1,Summer
+Royal Inn,Las Vegas,Standard,4,105.67,4.0,3,3,Winter
+Heritage Resort,Nashville,Deluxe,5,395.35,4.8,1,1,Summer
+Mountain Hotel,Las Vegas,Suite,4,457.0,3.1,3,1,Summer
+Heritage Inn,Las Vegas,Standard,5,163.4,4.5,3,2,Winter
+Heritage Lodge,Miami,Deluxe,5,281.1,4.5,1,1,Spring
+Royal Plaza,Seattle,Presidential,3,448.11,2.9,12,2,Spring
+Ocean Suites,San Francisco,Standard,5,162.16,4.2,3,3,Fall
+Ocean Hotel,Seattle,Standard,3,92.4,2.9,4,4,Fall
+Skyline Hotel,San Francisco,Standard,4,146.25,3.1,4,2,Spring
+Royal Inn,Nashville,Suite,3,301.23,2.2,1,2,Fall
+Metro Lodge,Boston,Standard,4,133.45,3.1,9,2,Summer
+Heritage Resort,Denver,Standard,5,153.24,5.0,1,3,Spring
+Heritage Inn,Boston,Standard,4,133.79,2.8,1,2,Spring
+Metro Lodge,Denver,Standard,3,110.77,1.9,4,2,Fall
+Mountain Hotel,Denver,Suite,5,555.52,5.0,6,1,Fall
+Harbor Hotel,Miami,Deluxe,5,284.25,4.5,1,1,Winter
+Royal Resort,Las Vegas,Deluxe,4,183.4,4.3,6,3,Fall
+Skyline Lodge,Miami,Deluxe,4,243.07,4.5,2,1,Summer
+Skyline Lodge,New York,Suite,4,338.69,3.1,6,2,Spring
+Royal Inn,Denver,Deluxe,3,135.54,1.9,1,4,Winter
+Ocean Suites,Boston,Deluxe,5,279.28,3.6,2,3,Spring
+Mountain Hotel,New York,Standard,5,164.2,4.7,5,1,Winter
+Grand Plaza,Nashville,Standard,4,136.41,2.7,10,1,Spring
+Park Plaza,Boston,Deluxe,5,258.52,4.4,4,4,Winter
+Harbor Hotel,Miami,Standard,3,111.27,2.8,5,2,Spring
+Sunset Suites,San Francisco,Standard,4,142.88,3.9,11,2,Spring
+Royal Resort,San Francisco,Standard,5,143.57,3.9,6,3,Fall
+Sunset Suites,Las Vegas,Deluxe,5,261.27,5.0,1,2,Fall
+Heritage Resort,Miami,Suite,4,372.71,3.4,2,2,Winter
+Mountain Suites,Seattle,Presidential,4,592.93,4.1,2,1,Fall
+Mountain Lodge,New York,Deluxe,5,301.05,4.1,1,2,Spring
+Sunset Plaza,Denver,Deluxe,4,199.69,2.6,7,2,Fall
+Mountain Lodge,Las Vegas,Deluxe,5,233.22,4.8,2,3,Winter
+Metro Suites,San Francisco,Presidential,3,425.06,1.6,5,2,Fall
+Mountain Suites,Nashville,Standard,3,112.1,2.2,5,2,Fall
+Park Plaza,Seattle,Standard,4,147.96,2.6,1,2,Spring
+Skyline Lodge,Boston,Standard,5,152.45,4.7,4,4,Fall
+Harbor Resort,New York,Standard,3,116.44,2.4,1,2,Spring
+Skyline Hotel,Seattle,Deluxe,5,398.24,5.0,5,4,Summer
+Ocean Hotel,San Francisco,Suite,4,391.77,4.1,2,2,Winter
+Sunset Hotel,Boston,Deluxe,4,227.39,2.7,2,4,Spring
+Metro Lodge,Denver,Deluxe,5,237.25,4.1,1,2,Winter
+Park Plaza,Seattle,Standard,5,189.6,3.8,3,3,Spring
+Heritage Inn,New York,Deluxe,4,208.3,3.9,2,4,Spring
+Skyline Resort,Las Vegas,Suite,4,404.72,3.1,3,2,Summer
+Royal Resort,Nashville,Presidential,3,688.12,2.6,6,1,Summer
+Grand Hotel,Nashville,Standard,3,102.3,1.6,7,2,Fall
+Ocean Hotel,Las Vegas,Deluxe,5,265.0,3.6,1,2,Fall
+Park Hotel,Denver,Standard,4,172.92,3.1,11,2,Summer
+Mountain Suites,San Francisco,Suite,4,323.44,3.4,2,1,Winter
+Royal Plaza,Miami,Standard,4,114.17,4.2,1,2,Fall
+Ocean Resort,Seattle,Standard,3,98.76,2.1,1,4,Fall
+Park Plaza,Denver,Presidential,3,539.51,2.1,3,3,Summer
+Metro Suites,Denver,Standard,3,91.66,3.3,5,3,Winter
+Sunset Hotel,Miami,Deluxe,4,210.93,3.1,2,2,Spring
+Park Resort,Las Vegas,Suite,4,303.9,2.7,2,4,Winter
+Park Resort,Seattle,Suite,3,288.81,1.6,1,2,Fall

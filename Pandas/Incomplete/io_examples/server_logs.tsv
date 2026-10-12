@@ -1,0 +1,9 @@
+timestamp	level	message	response_code
+2024-01-15 08:23:01	INFO	User login successful	200
+2024-01-15 08:23:15	WARNING	Slow query detected	200
+2024-01-15 08:24:02	ERROR	Database connection timeout	503
+2024-01-15 08:24:30	INFO	Cache refreshed	200
+2024-01-15 08:25:11	ERROR	File not found: /api/v2/users	404
+2024-01-15 08:25:45	INFO	User logout	200
+2024-01-15 08:26:03	WARNING	Memory usage above 80%	200
+2024-01-15 08:26:58	INFO	Scheduled backup started	200

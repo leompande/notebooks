@@ -1,0 +1,36 @@
+Book ID,Title,Author,Genre
+1,To Kill a Mockingbird,Harper Lee,Fiction
+2,1984,George Orwell,Fiction
+3,A Brief History of Time,Stephen Hawking,Science
+4,The Great Gatsby,F. Scott Fitzgerald,Fiction
+5,Freakonomics,Steven Levitt,Non-Fiction
+6,Dune,Frank Herbert,Sci-Fi
+7,Educated,Tara Westover,Memoir
+8,The Hobbit,J.R.R. Tolkien,Fiction
+9,Pride and Prejudice,Jane Austen,Fiction
+10,Clean Code,Robert C. Martin,Technology
+11,The Catcher in the Rye,J.D. Salinger,Fiction
+12,Brave New World,Aldous Huxley,Fiction
+13,The Alchemist,Paulo Coelho,Fiction
+14,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fiction
+15,The Lord of the Rings,J.R.R. Tolkien,Fiction
+16,Jane Eyre,Charlotte Bronte,Fiction
+17,Wuthering Heights,Emily Bronte,Fiction
+18,The Picture of Dorian Gray,Oscar Wilde,Fiction
+19,Fahrenheit 451,Ray Bradbury,Sci-Fi
+20,Cosmos,Carl Sagan,Science
+21,Thinking Fast and Slow,Daniel Kahneman,Non-Fiction
+22,The Da Vinci Code,Dan Brown,Fiction
+23,Gone Girl,Gillian Flynn,Fiction
+24,The Martian,Andy Weir,Sci-Fi
+25,Atomic Habits,James Clear,Non-Fiction
+26,Outliers,Malcolm Gladwell,Non-Fiction
+27,The Design of Everyday Things,Don Norman,Technology
+28,Ender's Game,Orson Scott Card,Sci-Fi
+29,Little Women,Louisa May Alcott,Fiction
+30,Treasure Island,Robert Louis Stevenson,Fiction
+31,Frankenstein,Mary Shelley,Fiction
+32,Dracula,Bram Stoker,Fiction
+33,The Silent Patient,Alex Michaelides,Fiction
+34,Project Hail Mary,Andy Weir,Sci-Fi
+35,A Short History of Nearly Everything,Bill Bryson,Science
